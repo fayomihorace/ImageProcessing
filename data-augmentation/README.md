@@ -1,6 +1,7 @@
 # ImageProcessing
 Code to create new images using some transformations
 
+Requirements: open-cv, numpy
 Use command
 	-rotation: 	python run.py  <input_images_folder_path>  -r  <number>    <angle_incrementation> 
 	-slice:		python run.py  <input_images_folder_path>  -s  <number_x>  <number_y> 
